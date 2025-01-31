@@ -38,26 +38,26 @@
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/umg_radarScreen.uexp" 37
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_lootWeighted.uasset" 38
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_lootWeighted.uexp" 39
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mInt.uasset" 40
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mInt.uexp" 41
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mFloat.uasset" 42
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mFloat.uexp" 43
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mClass.uasset" 44
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mClass.uexp" 45
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mBool.uasset" 46
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mBool.uexp" 47
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mVector.uasset" 48
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mVector.uexp" 49
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mString.uasset" 50
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mString.uexp" 51
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_byteimage.uasset" 52
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_byteimage.uexp" 53
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mString.uasset" 40
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mString.uexp" 41
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mInt.uasset" 42
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mInt.uexp" 43
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mFloat.uasset" 44
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mFloat.uexp" 45
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mClass.uasset" 46
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mClass.uexp" 47
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mBool.uasset" 48
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mBool.uexp" 49
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mVector.uasset" 50
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mVector.uexp" 51
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_objectType.uasset" 52
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_objectType.uexp" 53
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_freq.uasset" 54
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_freq.uexp" 55
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_objectType.uasset" 56
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_objectType.uexp" 57
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_quality.uasset" 58
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_quality.uexp" 59
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_quality.uasset" 56
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_quality.uexp" 57
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_byteimage.uasset" 58
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_byteimage.uexp" 59
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signalDataDynamic.uasset" 60
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signalDataDynamic.uexp" 61
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_save.uasset" 62
@@ -186,92 +186,92 @@
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/powerControl.uexp" 185
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/orderPlace.uasset" 186
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/orderPlace.uexp" 187
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/objectRenderer.uasset" 188
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/objectRenderer.uexp" 189
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/gearer.uasset" 190
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/gearer.uexp" 191
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/newsky.uasset" 192
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/newsky.uexp" 193
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/daynightCycle.uasset" 194
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/daynightCycle.uexp" 195
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/birber.uasset" 196
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/birber.uexp" 197
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/killerwisp.uasset" 198
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/killerwisp.uexp" 199
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/jellyfishPath.uasset" 200
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/jellyfishPath.uexp" 201
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/insomniac.uasset" 202
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/insomniac.uexp" 203
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/halloweenMaster.uasset" 204
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/halloweenMaster.uexp" 205
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generatorFuckuper.uasset" 206
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generatorFuckuper.uexp" 207
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/actor_save.uasset" 208
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/actor_save.uexp" 209
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generator.uasset" 210
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generator.uexp" 211
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/eg.uasset" 212
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/eg.uexp" 213
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/drone.uasset" 214
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/drone.uexp" 215
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_equipment.uasset" 216
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_equipment.uexp" 217
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_achievement.uasset" 218
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_achievement.uexp" 219
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_batts.uasset" 220
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_batts.uexp" 221
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_upgrades.uasset" 222
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_upgrades.uexp" 223
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_sound.uasset" 224
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_sound.uexp" 225
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_triggerSave.uasset" 226
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_triggerSave.uexp" 227
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_shopCats.uasset" 228
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_shopCats.uexp" 229
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_store.uasset" 230
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_store.uexp" 231
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_storeOrder.uasset" 232
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_storeOrder.uexp" 233
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_spawn.uasset" 234
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_spawn.uexp" 235
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mObject.uasset" 236
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mObject.uexp" 237
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_loan.uasset" 238
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_loan.uexp" 239
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_task.uasset" 240
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_task.uexp" 241
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/saveSlot.uasset" 242
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/saveSlot.uexp" 243
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_gamemode.uasset" 244
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_gamemode.uexp" 245
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/GameInst.uasset" 246
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/GameInst.uexp" 247
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_serverMinigame.uasset" 248
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_serverMinigame.uexp" 249
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/dreamBase.uasset" 250
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/dreamBase.uexp" 251
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/d_window.uasset" 252
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/d_window.uexp" 253
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_gamemode.uasset" 188
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_gamemode.uexp" 189
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_upgrades.uasset" 190
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_upgrades.uexp" 191
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_sound.uasset" 192
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_sound.uexp" 193
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_triggerSave.uasset" 194
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_triggerSave.uexp" 195
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_shopCats.uasset" 196
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_shopCats.uexp" 197
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_store.uasset" 198
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_store.uexp" 199
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_storeOrder.uasset" 200
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_storeOrder.uexp" 201
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_spawn.uasset" 202
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_spawn.uexp" 203
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mObject.uasset" 204
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_mObject.uexp" 205
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_loan.uasset" 206
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_loan.uexp" 207
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_equipment.uasset" 208
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_equipment.uexp" 209
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_achievement.uasset" 210
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_achievement.uexp" 211
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_batts.uasset" 212
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_batts.uexp" 213
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_task.uasset" 214
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_task.uexp" 215
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/saveSlot.uasset" 216
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/saveSlot.uexp" 217
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/GameInst.uasset" 218
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/GameInst.uexp" 219
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_serverMinigame.uasset" 220
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_serverMinigame.uexp" 221
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/eg.uasset" 222
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/eg.uexp" 223
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/blackFog.uasset" 224
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/blackFog.uexp" 225
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/actor_save.uasset" 226
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/actor_save.uexp" 227
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generator.uasset" 228
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generator.uexp" 229
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/halloweenMaster.uasset" 230
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/halloweenMaster.uexp" 231
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/newsky.uasset" 232
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/newsky.uexp" 233
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/daynightCycle.uasset" 234
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/daynightCycle.uexp" 235
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/jellyfishPath.uasset" 236
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/jellyfishPath.uexp" 237
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/drone.uasset" 238
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/drone.uexp" 239
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/badSun.uasset" 240
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/badSun.uexp" 241
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/objectRenderer.uasset" 242
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/objectRenderer.uexp" 243
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/birber.uasset" 244
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/birber.uexp" 245
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/insomniac.uasset" 246
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/insomniac.uexp" 247
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/car1.uasset" 248
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/car1.uexp" 249
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cheat_place.uasset" 250
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cheat_place.uexp" 251
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cockroachMaster.uasset" 252
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cockroachMaster.uexp" 253
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cordSocket.uasset" 254
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cordSocket.uexp" 255
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cheat_place.uasset" 256
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cheat_place.uexp" 257
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/car1.uasset" 258
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/car1.uexp" 259
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cockroachMaster.uasset" 260
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/cockroachMaster.uexp" 261
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/blackFog.uasset" 262
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/blackFog.uexp" 263
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/save_main.uasset" 264
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/save_main.uexp" 265
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/digcamMaster.uasset" 266
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/digcamMaster.uexp" 267
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/borders.uasset" 268
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/borders.uexp" 269
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_data1.uasset" 270
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_data1.uexp" 271
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/badSun.uasset" 272
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/badSun.uexp" 273
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/d_window.uasset" 256
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/d_window.uexp" 257
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/digcamMaster.uasset" 258
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/digcamMaster.uexp" 259
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/gearer.uasset" 260
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/misc/gearer.uexp" 261
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/borders.uasset" 262
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/borders.uexp" 263
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generatorFuckuper.uasset" 264
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/generatorFuckuper.uexp" 265
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/save_main.uasset" 266
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/save_main.uexp" 267
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/killerwisp.uasset" 268
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/killerwisp.uexp" 269
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/dreamBase.uasset" 270
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/dreamBase.uexp" 271
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_data1.uasset" 272
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_signal_data1.uexp" 273
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/mainGamemode.uasset" 274
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/mainGamemode.uexp" 275
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop.uasset" 276
@@ -290,145 +290,145 @@
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/ladder.uexp" 289
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/mainPlayer.uasset" 290
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/mainPlayer.uexp" 291
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_action.uasset" 292
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_action.uexp" 293
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_object.uasset" 294
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_object.uexp" 295
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_spawnmenuCats.uasset" 296
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_spawnmenuCats.uexp" 297
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_prop.uasset" 298
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_prop.uexp" 299
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_emailChars.uasset" 300
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_emailChars.uexp" 301
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_notifyType.uasset" 302
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_notifyType.uexp" 303
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_notifyType.uasset" 292
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_notifyType.uexp" 293
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_emailChars.uasset" 294
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_emailChars.uexp" 295
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_action.uasset" 296
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_action.uexp" 297
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_spawnmenuCats.uasset" 298
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/enums/enum_spawnmenuCats.uexp" 299
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_prop.uasset" 300
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_prop.uexp" 301
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_object.uasset" 302
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/structs/struct_object.uexp" 303
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/lib1.uasset" 304
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/main/lib1.uexp" 305
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomVariable.uasset" 306
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomVariable.uexp" 307
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomEvent.uasset" 308
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomEvent.uexp" 309
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomActor.uasset" 310
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomActor.uexp" 311
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Enums/BaseRoom.uasset" 312
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Enums/BaseRoom.uexp" 313
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/bananacat.uasset" 314
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/bananacat.uexp" 315
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/bananacat.ubulk" 316
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/arirShip.uasset" 317
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/arirShip.uexp" 318
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_quicksave.uasset" 319
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_quicksave.uexp" 320
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 321
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uexp" 322
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_button.uasset" 323
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_button.uexp" 324
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular.uasset" 325
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular.uexp" 326
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular.ufont" 327
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular_Font.uasset" 328
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular_Font.uexp" 329
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/audio/classes/cl_ui.uasset" 330
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/audio/classes/cl_ui.uexp" 331
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonrollover.uasset" 332
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonrollover.uexp" 333
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclick.uasset" 334
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclick.uexp" 335
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist_item.uasset" 336
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist_item.uexp" 337
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_background.uasset" 338
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_background.uexp" 339
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 340
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 341
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/materials/phys/rubber.uasset" 306
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/materials/phys/rubber.uexp" 307
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ThirdOutlineMaterial.uasset" 308
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ThirdOutlineMaterial.uexp" 309
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OutlineMaterial.uasset" 310
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OutlineMaterial.uexp" 311
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OtherOutlineMaterial.uasset" 312
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OtherOutlineMaterial.uexp" 313
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/legs.uasset" 314
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/legs.uexp" 315
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/legs.ubulk" 316
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/LegMaterial.uasset" 317
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/LegMaterial.uexp" 318
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/face.uasset" 319
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/face.uexp" 320
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/face.ubulk" 321
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/FaceMaterial.uasset" 322
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/FaceMaterial.uexp" 323
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/banana.uasset" 324
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/banana.uexp" 325
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/banana.ubulk" 326
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/BananaMaterial.uasset" 327
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/BananaMaterial.uexp" 328
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/arm.uasset" 329
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/arm.uexp" 330
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/arm.ubulk" 331
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ArmMaterial.uasset" 332
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ArmMaterial.uexp" 333
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/models/catbanana.uasset" 334
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/models/catbanana.uexp" 335
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Prop.uasset" 336
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Prop.uexp" 337
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/prop_bananaCat.uasset" 338
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/prop_bananaCat.uexp" 339
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Enums/BaseRoom.uasset" 340
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Enums/BaseRoom.uexp" 341
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomRoomCheck.uasset" 342
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomRoomCheck.uexp" 343
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Datatables/CustomRoomList.uasset" 344
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Datatables/CustomRoomList.uexp" 345
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Classes/VoidModActor.uasset" 346
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Classes/VoidModActor.uexp" 347
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_Mod.uasset" 348
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_Mod.uexp" 349
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_ConfigVariable.uasset" 350
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_ConfigVariable.uexp" 351
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Config.uasset" 352
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Config.uexp" 353
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Base.uasset" 354
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Base.uexp" 355
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist.uasset" 356
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist.uexp" 357
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.uasset" 358
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.uexp" 359
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_mod.uasset" 360
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_mod.uexp" 361
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_uncheck_64.uasset" 362
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_uncheck_64.uexp" 363
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_check_64.uasset" 364
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_check_64.uexp" 365
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.uasset" 366
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.uexp" 367
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu.uasset" 368
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu.uexp" 369
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist_item.uasset" 370
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist_item.uexp" 371
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist.uasset" 372
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist.uexp" 373
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/VoidModIconTransparent.uasset" 374
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/VoidModIconTransparent.uexp" 375
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/VoidModIconTransparent.ubulk" 376
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/semicircle.uasset" 377
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/semicircle.uexp" 378
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/semicircle.ubulk" 379
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/Menu_Settings.uasset" 380
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/Menu_Settings.uexp" 381
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/Menu_Settings.ubulk" 382
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/custom_menu.uasset" 383
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/custom_menu.uexp" 384
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/branded_loading.uasset" 385
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/branded_loading.uexp" 386
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomCommandData.uasset" 387
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomCommandData.uexp" 388
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Saves/VoidModDataSave.uasset" 389
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Saves/VoidModDataSave.uexp" 390
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_SaveData.uasset" 391
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_SaveData.uexp" 392
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModInstance.uasset" 393
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModInstance.uexp" 394
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Terminal.uasset" 395
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Terminal.uexp" 396
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/materials/phys/rubber.uasset" 397
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/materials/phys/rubber.uexp" 398
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ThirdOutlineMaterial.uasset" 399
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ThirdOutlineMaterial.uexp" 400
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OutlineMaterial.uasset" 401
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OutlineMaterial.uexp" 402
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OtherOutlineMaterial.uasset" 403
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/OtherOutlineMaterial.uexp" 404
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/legs.uasset" 405
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/legs.uexp" 406
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/legs.ubulk" 407
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/LegMaterial.uasset" 408
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/LegMaterial.uexp" 409
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/face.uasset" 410
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/face.uexp" 411
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/face.ubulk" 412
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/FaceMaterial.uasset" 413
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/FaceMaterial.uexp" 414
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/banana.uasset" 415
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/banana.uexp" 416
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/banana.ubulk" 417
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/BananaMaterial.uasset" 418
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/BananaMaterial.uexp" 419
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/arm.uasset" 420
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/arm.uexp" 421
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/textures/arm.ubulk" 422
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ArmMaterial.uasset" 423
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/materials/ArmMaterial.uexp" 424
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/models/catbanana.uasset" 425
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/models/catbanana.uexp" 426
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Prop.uasset" 427
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Prop.uexp" 428
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/prop_bananaCat.uasset" 429
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/prop_bananaCat.uexp" 430
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomActor.uasset" 348
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomActor.uexp" 349
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomEvent.uasset" 350
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomEvent.uexp" 351
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_Mod.uasset" 352
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_Mod.uexp" 353
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 354
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 355
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_ConfigVariable.uasset" 356
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_ConfigVariable.uexp" 357
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_quicksave.uasset" 358
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/umg/UI/umg_quicksave.uexp" 359
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 360
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uexp" 361
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_button.uasset" 362
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_button.uexp" 363
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular.uasset" 364
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular.uexp" 365
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular.ufont" 366
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular_Font.uasset" 367
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Fonts/ShareTechMono-Regular_Font.uexp" 368
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/audio/classes/cl_ui.uasset" 369
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/audio/classes/cl_ui.uexp" 370
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonrollover.uasset" 371
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonrollover.uexp" 372
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclick.uasset" 373
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclick.uexp" 374
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist_item.uasset" 375
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist_item.uexp" 376
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_background.uasset" 377
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_background.uexp" 378
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist.uasset" 379
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/spawnlist.uexp" 380
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.uasset" 381
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option.uexp" 382
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_mod.uasset" 383
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_mod.uexp" 384
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_uncheck_64.uasset" 385
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_uncheck_64.uexp" 386
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_check_64.uasset" 387
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/ui_checkbox_check_64.uexp" 388
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.uasset" 389
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu_option_bool.uexp" 390
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu.uasset" 391
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/optionsmenu.uexp" 392
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist_item.uasset" 393
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist_item.uexp" 394
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist.uasset" 395
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/modlist.uexp" 396
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/VoidModIconTransparent.uasset" 397
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/VoidModIconTransparent.uexp" 398
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/VoidModIconTransparent.ubulk" 399
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/semicircle.uasset" 400
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/semicircle.uexp" 401
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/semicircle.ubulk" 402
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/Menu_Settings.uasset" 403
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/Menu_Settings.uexp" 404
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Images/Menu_Settings.ubulk" 405
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/custom_menu.uasset" 406
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/custom_menu.uexp" 407
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/branded_loading.uasset" 408
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Widgets/branded_loading.uexp" 409
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomCommandData.uasset" 410
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomCommandData.uexp" 411
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomVariable.uasset" 412
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Structs/VoidMod_CustomVariable.uexp" 413
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Saves/VoidModDataSave.uasset" 414
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Saves/VoidModDataSave.uexp" 415
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_SaveData.uasset" 416
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_SaveData.uexp" 417
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModInstance.uasset" 418
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModInstance.uexp" 419
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Config.uasset" 420
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Config.uexp" 421
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Base.uasset" 422
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Base.uexp" 423
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Terminal.uasset" 424
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Interfaces/VoidMod_Terminal.uexp" 425
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/arirShip.uasset" 426
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/arirShip.uexp" 427
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/bananacat.uasset" 428
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/bananacat.uexp" 429
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/bananacat.ubulk" 430
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/README.uasset" 431
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/README.uexp" 432
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/audio/classes/cl_ambient.uasset" 433
@@ -696,76 +696,76 @@
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/MedvedSignal/medved_raw.uexp" 695
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Structs/struct_signalDataDynamic.uasset" 696
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Structs/struct_signalDataDynamic.uexp" 697
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_diffuse.uasset" 698
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_diffuse.uexp" 699
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_diffuse.ubulk" 700
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver.uasset" 701
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver.uexp" 702
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_v1_l2_13098_NorthAmericanBeaver.uasset" 703
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_v1_l2_13098_NorthAmericanBeaver.uexp" 704
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_diff.uasset" 705
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_diff.uexp" 706
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_diff.ubulk" 707
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/_20918_modern_tabletop_radio_v1_NEW20918_modern_tabletop_radio_v1.uasset" 708
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/_20918_modern_tabletop_radio_v1_NEW20918_modern_tabletop_radio_v1.uexp" 709
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_v1_NEW.uasset" 710
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_v1_NEW.uexp" 711
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_radio_modded.uasset" 712
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_radio_modded.uexp" 713
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_bober.uasset" 714
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_bober.uexp" 715
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_props.uasset" 716
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_props.uexp" 717
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/ModActor.uasset" 718
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/ModActor.uexp" 719
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/_Content/main/datatables/_list_props.uasset" 720
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/_Content/main/datatables/_list_props.uexp" 721
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModIcon.uasset" 722
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModIcon.uexp" 723
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModIcon.ubulk" 724
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/ModActor.uasset" 725
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/ModActor.uexp" 726
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/achievement.uasset" 727
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/achievement.uexp" 728
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclickrelease.uasset" 729
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclickrelease.uexp" 730
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/deadTone.uasset" 731
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/deadTone.uexp" 732
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard_uneditable.uasset" 733
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard_uneditable.uexp" 734
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard.uasset" 735
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard.uexp" 736
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/radio.uasset" 737
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/radio.uexp" 738
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/radio.ubulk" 739
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/ModActor.uasset" 740
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/ModActor.uexp" 741
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear.uasset" 742
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear.uexp" 743
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear_NRT.uasset" 744
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear_NRT.uexp" 745
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high.uasset" 746
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high.uexp" 747
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high_NRT.uasset" 748
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high_NRT.uexp" 749
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low.uasset" 750
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low.uexp" 751
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low_NRT.uasset" 752
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low_NRT.uexp" 753
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row.uasset" 754
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row.uexp" 755
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row_NRT.uasset" 756
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row_NRT.uexp" 757
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_raw.uasset" 758
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_raw.uexp" 759
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_low.uasset" 760
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_low.uexp" 761
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_high.uasset" 762
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_high.uexp" 763
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_clear.uasset" 764
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_clear.uexp" 765
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_signals.uasset" 766
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_signals.uexp" 767
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear.uasset" 698
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear.uexp" 699
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear_NRT.uasset" 700
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_clear_NRT.uexp" 701
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high.uasset" 702
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high.uexp" 703
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high_NRT.uasset" 704
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_high_NRT.uexp" 705
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low.uasset" 706
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low.uexp" 707
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low_NRT.uasset" 708
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_low_NRT.uexp" 709
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row.uasset" 710
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row.uexp" 711
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row_NRT.uasset" 712
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/audio/signals/neks_it/neks_it_row_NRT.uexp" 713
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_diffuse.uasset" 714
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_diffuse.uexp" 715
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_diffuse.ubulk" 716
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver.uasset" 717
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver.uexp" 718
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_v1_l2_13098_NorthAmericanBeaver.uasset" 719
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/bober/13098_NorthAmericanBeaver_v1_l2_13098_NorthAmericanBeaver.uexp" 720
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_diff.uasset" 721
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_diff.uexp" 722
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_diff.ubulk" 723
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/_20918_modern_tabletop_radio_v1_NEW20918_modern_tabletop_radio_v1.uasset" 724
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/_20918_modern_tabletop_radio_v1_NEW20918_modern_tabletop_radio_v1.uexp" 725
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_v1_NEW.uasset" 726
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/meshes/Radio/20918_modern_tabletop_radio_v1_NEW.uexp" 727
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_radio_modded.uasset" 728
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_radio_modded.uexp" 729
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_bober.uasset" 730
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/objects/prop_bober.uexp" 731
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_props.uasset" 732
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_props.uexp" 733
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_raw.uasset" 734
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_raw.uexp" 735
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_low.uasset" 736
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_low.uexp" 737
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_high.uasset" 738
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_high.uexp" 739
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_clear.uasset" 740
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/Signals/neks_it/neks_it_clear.uexp" 741
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_signals.uasset" 742
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/_Content/main/datatables/_list_signals.uexp" 743
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/ModActor.uasset" 744
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/ModActor.uexp" 745
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/_Content/main/datatables/_list_props.uasset" 746
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/SampleBananaCat/_Content/main/datatables/_list_props.uexp" 747
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModIcon.uasset" 748
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModIcon.uexp" 749
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/VoidModIcon.ubulk" 750
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/ModActor.uasset" 751
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/ModActor.uexp" 752
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/achievement.uasset" 753
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/achievement.uexp" 754
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclickrelease.uasset" 755
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/buttonclickrelease.uexp" 756
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/deadTone.uasset" 757
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/deadTone.uexp" 758
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard_uneditable.uasset" 759
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard_uneditable.uexp" 760
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard.uasset" 761
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/objects/prop_clipboard.uexp" 762
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/radio.uasset" 763
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/radio.uexp" 764
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/Assets/Textures/radio.ubulk" 765
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/ModActor.uasset" 766
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/RadioRework/ModActor.uexp" 767
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/notif1.uasset" 768
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/notif1.uexp" 769
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Mods/VoidMod2/Assets/Audio/notif2.uasset" 770
@@ -1021,24 +1021,24 @@
 "../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 1020
 "../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 1021
 "../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 1022
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 1023
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 1024
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 1025
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 1026
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 1027
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 1028
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 1029
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 1030
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 1031
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 1032
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 1033
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 1034
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 1035
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 1036
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 1037
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 1038
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 1039
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 1040
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 1023
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 1024
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 1025
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 1026
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 1027
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 1028
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 1029
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 1030
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 1031
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 1032
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 1033
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 1034
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 1035
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 1036
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 1037
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 1038
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 1039
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 1040
 "../../../Engine/Content/EngineFonts/Roboto.uasset" 1041
 "../../../Engine/Content/EngineFonts/Roboto.uexp" 1042
 "../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 1043
@@ -1288,16 +1288,16 @@
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 1287
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 1288
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 1289
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 1290
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 1291
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 1292
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 1293
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 1294
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 1295
-"../../../Engine/Content/EngineResources/Black.uasset" 1296
-"../../../Engine/Content/EngineResources/Black.uexp" 1297
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 1298
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 1299
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 1290
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 1291
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 1292
+"../../../Engine/Content/EngineResources/Black.uasset" 1293
+"../../../Engine/Content/EngineResources/Black.uexp" 1294
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 1295
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 1296
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 1297
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 1298
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 1299
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 1300
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 1301
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 1302
@@ -1419,11 +1419,11 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 1418
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Plugins/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros.uasset" 1419
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Plugins/LowEntryExtStdLib/Content/Blueprints/LowEntryExtendedStandardLibraryMacros.uexp" 1420
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1421
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1422
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled_BuiltData.uasset" 1423
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled_BuiltData.uexp" 1424
-"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled_BuiltData.ubulk" 1425
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled_BuiltData.uasset" 1421
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled_BuiltData.uexp" 1422
+"C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled_BuiltData.ubulk" 1423
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1424
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1425
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled.uexp" 1426
 "C:/Users/Kit/Documents/Unreal Projects/VotV/Content/Untitled.umap" 1427
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1428
