@@ -1,9 +1,6 @@
-Voices of the Void modding
+# CookieKitMods
+Joint repository containing mods (as well as some other things) Cookie and Kit. Contains a lot of different things and strange solutions. Many GhostMuppings have also been updated!
 
-Репозиторий моего проекта, просто чтобы хранить его где-то, и, в случае чего, делиться изменениями с кем угодно
-
-текущие возможности: 
-- добавление кастомных моделей, пропов
-- добаление кастомных медиа-ресурсов (фото-аудио)
-- спавн дисков (копируется механизм из чит-меню песочницы)
-- получение и взаимодействие со внутриигровым временем
+## **Requered plugins for for self-build:**
+- [VictoryBPLibrary](https://www.mediafire.com/file/1snjjuxuoqs6b4g/VictoryPlugin27.zip/file)
+- [LE Extended Standard Library](https://www.fab.com/listings/0aadd41b-c02d-4f63-9009-bffad0070ebc)
