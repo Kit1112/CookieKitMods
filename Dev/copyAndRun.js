@@ -19,11 +19,11 @@ const gameCommand = shimloaderDir
     ? `"${gameDir}/VotV.exe" --mod-dir "${shimloaderDir}/mod" --pak-dir "${shimloaderDir}/pak" --cfg-dir "${shimloaderDir}/cfg"`
     : `"${gameDir}/VotV.exe"`;
 
-function makeModEntry(chunkId, modName) {
+function makeModEntry(chunkId, author, modName, fileName) {
     return {
         modName,
         source: path.join(packagedPaksDir, `pakchunk${chunkId}-WindowsNoEditor.pak`),
-        destination: path.join(shimloaderPaksDir, `${modName}/${modName}.pak`),
+        destination: path.join(shimloaderPaksDir, `${author}-${modName}/${fileName ?? modName}.pak`),
     };
 }
 
