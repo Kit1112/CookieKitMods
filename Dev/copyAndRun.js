@@ -14,6 +14,12 @@ const shimloaderPaksDir = config['shimloaderPaksDir'];
 // Массив пар source/destination
 const modEntries = mods.map(mod => makeModEntry(...mod));
 
+modEntries.push({
+    modName: 'CookieKit',
+    source: path.join(__dirname, 'ini_p.pak'),
+    destination: path.join(shimloaderPaksDir, `qoqqi-CookieKit/ini_p.pak`),
+});
+
 // Команда для запуска игры
 const gameCommand = shimloaderDir
     ? `"${gameDir}/VotV.exe" --mod-dir "${shimloaderDir}/mod" --pak-dir "${shimloaderDir}/pak" --cfg-dir "${shimloaderDir}/cfg"`
