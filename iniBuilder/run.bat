@@ -1,0 +1,2 @@
+cd "C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64"
+UnrealPak.exe "C:\Users\Kit\Documents\Unreal Projects\VotV\Dev\ini_P.pak" -create="C:\Users\Kit\Documents\Unreal Projects\VotV\iniBuilder\filelist.txt"
