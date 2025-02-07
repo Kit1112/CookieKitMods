@@ -1,7 +1,8 @@
 {
 	"mods": [
-		[69, "CookieInTheVoid"],
-		[99, "DebugThings"],
-		[228, "RadioRework"]
+		[50, "qoqqi", "CookieKit"],
+		[69, "qoqqi", "CookieInTheVoid"],
+		[99, "qoqqi", "DebugThings"],
+		[228, "death_nick", "RadioRework"]
 	]
 }
